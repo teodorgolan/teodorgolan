@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and PCs
 - 🌱 I’m currently learning Coding and using 3D programs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me golanteodor37@gmail.com
+- 📫 How to reach me teodorgolan12@gmail.com
 
 <!---
 teodorgolan/teodorgolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
