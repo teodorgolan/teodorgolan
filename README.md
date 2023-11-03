@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teodorgolan
 - 👀 I’m interested in Coding and PCs
-- 🌱 I’m currently learning Coding and using 3D programs
+- 🌱 I’m currently learning Front-end & Back-end Development along with 3D software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me teodorgolan12@gmail.com
 
